@@ -113,7 +113,7 @@ neighbour.
 8. Results
 ==============================================================================
 
-See wiki: https://github.com/PGAS-community-benchmarks/Asynch-3D/wiki
+See wiki: https://github.com/PGAS-community-benchmarks/Asynch-3D/wiki#results
 
 ==============================================================================
 9. Community involvement
